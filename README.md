@@ -1,7 +1,7 @@
 - 👋 I am Supachai Chanu.
 - 🎁 I graduted in Electrical Engineer Departments, from King Mongkut's University of Technology Thonburi.
 - 👀 I am interested in GOLANG DEVELOPER.
-- 🌱 I am currently learning API by using Golang, front-end website by using HTML and CSS.
+- 🌱 I have been learning API by using Golang, front-end website by using HTML and CSS.
 - 📫 email: supachai.chanu@gmail.com
 
 <!---
