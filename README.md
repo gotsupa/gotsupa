@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Supachai Chanu.
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in GOLANG DEVELOPER.
 - 🌱 I’m currently learning API by using Golang.
 - 📫 email: supachai.chanu@gmail.com
 
