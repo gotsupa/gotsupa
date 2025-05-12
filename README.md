@@ -2,7 +2,7 @@
 - 🎁 I graduted in Electrical Engineer Departments, from King Mongkut's University of Technology Thonburi.
 - 👀 I am currently studying on NodeJS, ReactJS, NextJS, and Docker & Kubernetes.
 - 🌱 I have been learning backend development by using NodeJS, front-end website by using ReactJS or NextJS.
-- 📫 email: supachai.chanu@gmail.com
+- 📫 email: supachai.devz@gmail.com
 
 <!---
 gotsupa/gotsupa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
